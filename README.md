@@ -32,7 +32,15 @@
 ---
 
 ## 🖼️ Dashboard Preview
-(Replace these with your actual screenshots after uploading)
+![Stock Table](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+![Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(96).png)
+
+![100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+![100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+![Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
 
 ---
 
@@ -56,6 +64,41 @@
 - Streamlit (Web Dashboard)
 - YFinance (Financial Data API)
 - Matplotlib & Pandas (Data Processing & Viz)
+
+---
+
+## 📂 Project Structure
+
+Stock-Price-Prediction-LSTM/
+
+├── App/
+
+│   └── app.py              
+
+├── Model/
+
+│   ├── stockpredict.py      
+
+│   └── keras_model.keras     
+
+├── Images/
+
+│   ├── [Stock Table](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+│   ├── [Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(96).png)
+
+│   ├── [100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+│   ├── [100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+
+│   └── [Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+   
+
+├── requirements.txt          
+
+└── README.md                 
+
+---
 
 ## 🚀 How to Run the Project
 1. Clone the repository:

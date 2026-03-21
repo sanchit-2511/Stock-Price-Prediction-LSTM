@@ -36,11 +36,11 @@
 
 ![Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(96).png)
 
-![100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+![100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(97).png)
 
-![100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+![100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(98).png)
 
-![Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+![Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(99).png)
 
 ---
 
@@ -73,13 +73,13 @@ Stock-Price-Prediction-LSTM/
 
 ├── App/
 
-│   └── app.py              
+│   └── [app.py](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/9b37e31d2946b0029b3f8ba9688851bbe3212639/App/app.py)            
 
 ├── Model/
 
-│   ├── stockpredict.py      
+│   ├── [stockpredict.py](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/9b37e31d2946b0029b3f8ba9688851bbe3212639/Model/stockpredict.py)      
 
-│   └── keras_model.keras     
+│   └── [keras_model.keras](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/9b37e31d2946b0029b3f8ba9688851bbe3212639/Model/keras_model.keras)     
 
 ├── Images/
 
@@ -87,14 +87,14 @@ Stock-Price-Prediction-LSTM/
 
 │   ├── [Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(96).png)
 
-│   ├── [100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+│   ├── [100MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(97).png)
 
-│   ├── [100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+│   ├── [100MA and 200MA Close Price Plot](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(98).png)
 
-│   └── [Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(95).png)
+│   └── [Original Price vs Predicted Price](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/fac406b275050e778988c07ca62817791dc219c6/Images/Screenshot%20(99).png)
    
 
-├── requirements.txt          
+├── [requirements.txt](https://github.com/sanchit-2511/Stock-Price-Prediction-LSTM/blob/9b37e31d2946b0029b3f8ba9688851bbe3212639/requirements.txt)         
 
 └── README.md                 
 
